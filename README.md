@@ -38,7 +38,7 @@ Inhaltsbeschreibung:
 
 Im Praktikum wird der Einsatz obiger Konzepte anhand eines durchgängigen Projektes eines OO-Systems realisiert.
 
-# Konzepte moderner Programmiersprachen
+# Konzepte moderner Programmiersprachen Modul :
 Inhaltsbeschreibung:
 Ausgewählte Programmiersprachen und Sprachkonzepte werden in der Vorlesung vorgestellt und in den Übungen und Praktika vertieft.
 Dies umfasst Themen wie funktionale Programmierung (hier insbesondere: die Verwendung von Higher-Order Functions, Tail-Recursion und Pattern Matching). Außerdem werden Auswertungsstrategien, wie Eager und Lazy Evaluation, diskutiert und einige Funktionale Programmierpattern vorgestellt. Darüber hinaus behandelt das Modul Nebenläufigkeitskonzepte wie Goroutinen und das Aktorenmodell, deren Umsetzung in Programmiersprachen-Konstrukten, ausgewählte Aspekte der Vererbung bei Objekt-Orientierung (objekt-basierte Vererbung, Klassen-basierte Vererbung) sowie das Konzept des "Ökosystems" aus Bibliotheken und Tools rund um eine Programmiersprache als Kern.

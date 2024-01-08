@@ -3,12 +3,12 @@
 ## C++
 # Grundlagen der Informatik und höhere Programmiersprache für Informatik Modul 
 Inhaltsbeschreibung:
-> Software, allgemeine Begriffe, Entwicklungsumgebungen, Compiler, Binder, Lader, Sprachtypen
-> Strukturierte Programmierung, Struktogramm
-> Programmiersprache C/C++, Datentypen, Kontrollstrukturen, Funktionen, Arrays und Pointer
-> Datenstrukturen, verkettete Liste
-> Klassen, objektorientierte Programmierung
-> Dateioperationen und Streams
++ Software, allgemeine Begriffe, Entwicklungsumgebungen, Compiler, Binder, Lader, Sprachtypen
++ Strukturierte Programmierung, Struktogramm
++ Programmiersprache C/C++, Datentypen, Kontrollstrukturen, Funktionen, Arrays und Pointer
++ Datenstrukturen, verkettete Liste
++ Klassen, objektorientierte Programmierung
++ Dateioperationen und Streams
 
 # Algorithmen und Datenstrukturen Modul : 
 Inhaltsbeschreibung:

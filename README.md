@@ -9,6 +9,7 @@ Programmiersprache C/C++, Datentypen, Kontrollstrukturen, Funktionen, Arrays und
 Datenstrukturen, verkettete Liste
 Klassen, objektorientierte Programmierung
 Dateioperationen und Streams
+
 # Algorithmen und Datenstrukturen Modul : 
 Inhaltsbeschreibung:
 Programmiersprache: C++ und STL

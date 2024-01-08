@@ -1,14 +1,14 @@
 # programmiersprachen
 
-##C++
+## C++
 # Grundlagen der Informatik und höhere Programmiersprache für Informatik Modul 
 Inhaltsbeschreibung:
-Software, allgemeine Begriffe, Entwicklungsumgebungen, Compiler, Binder, Lader, Sprachtypen
-Strukturierte Programmierung, Struktogramm
-Programmiersprache C/C++, Datentypen, Kontrollstrukturen, Funktionen, Arrays und Pointer
-Datenstrukturen, verkettete Liste
-Klassen, objektorientierte Programmierung
-Dateioperationen und Streams
+> Software, allgemeine Begriffe, Entwicklungsumgebungen, Compiler, Binder, Lader, Sprachtypen
+> Strukturierte Programmierung, Struktogramm
+> Programmiersprache C/C++, Datentypen, Kontrollstrukturen, Funktionen, Arrays und Pointer
+> Datenstrukturen, verkettete Liste
+> Klassen, objektorientierte Programmierung
+> Dateioperationen und Streams
 
 # Algorithmen und Datenstrukturen Modul : 
 Inhaltsbeschreibung:
@@ -23,7 +23,7 @@ Algorithmen zum Sortieren und deren Analyse:
 Verfahren zum Suchen in großen Datenbeständen: Sequentielle Suche, binäre Suche, einfache binäre Suche, Hashing
 Dynamische Datenstrukturen und deren Algorithmen: ausgeglichene, B- und B*-Bäume, Graphen (Darstellung, Traversierung und Anwendung (Dijkstra-Algorithmus))
 
-##Java
+## Java
 # Objektorientierte Softwareentwicklung Modul : 
 Inhaltsbeschreibung:
 In den Vorlesungen und Übungen werden Grundlagen und Anwendungen der folgenden Gebiete der objektorientierten Softwareentwicklung vorgestellt und deren praktischer Einsatz geübt:

@@ -17,11 +17,13 @@ Inhaltsbeschreibung:
 + Datentypen: Felder, lineare Listen (Stack, Queues, Priority Queues), sortierte lineare Listen und deren Speicherverwaltung, Bäume, Graphen
 + Methode der rekursiven Programmierung
 + Algorithmen zum Sortieren und deren Analyse:
- - interne Sortierverfahren:
- - elementare Verfahren, Shellsort, Quicksort, Heapsort u.a.
- - externe Sortierverfahren
-Verfahren zum Suchen in großen Datenbeständen: Sequentielle Suche, binäre Suche, einfache binäre Suche, Hashing
-Dynamische Datenstrukturen und deren Algorithmen: ausgeglichene, B- und B*-Bäume, Graphen (Darstellung, Traversierung und Anwendung (Dijkstra-Algorithmus))
++ interne Sortierverfahren:
+  elementare Verfahren, Shellsort, Quicksort, Heapsort u.a.
+  externe Sortierverfahren
++ Verfahren zum Suchen in großen Datenbeständen:
+ Sequentielle Suche, binäre Suche, einfache binäre Suche, Hashing
++ Dynamische Datenstrukturen und deren Algorithmen:
+ ausgeglichene, B- und B*-Bäume, Graphen (Darstellung, Traversierung und Anwendung (Dijkstra-Algorithmus))
 
 ## Java
 # Objektorientierte Softwareentwicklung Modul : 

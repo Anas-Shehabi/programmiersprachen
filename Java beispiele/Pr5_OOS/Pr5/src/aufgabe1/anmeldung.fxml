@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="aufgabe1.AnmeldungsController">
+   <children>
+      <Label layoutX="129.0" layoutY="55.0" text="Benutzerverwaltung">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="93.0" layoutY="167.0" text="UserID">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="93.0" layoutY="219.0" prefHeight="35.0" prefWidth="105.0" text="Passwort">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="Anmeldung_UserID" layoutX="354.0" layoutY="172.0" prefHeight="25.0" prefWidth="197.0" promptText="UserID" />
+      <PasswordField fx:id="Anmeldung_Passwort" layoutX="354.0" layoutY="224.0" prefHeight="25.0" prefWidth="197.0" promptText="Passwort" />
+      <Button fx:id="btn_Ausfuehren_Anmeldung" layoutX="86.0" layoutY="342.0" mnemonicParsing="false" onAction="#Button_Ausfuehren_Anmeldung" prefHeight="25.0" prefWidth="159.0" text="Ausführen" />
+      <Label layoutX="93.0" layoutY="274.0" prefHeight="35.0" prefWidth="159.0" text="Wiederholung">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <PasswordField fx:id="Anmeldung_Passwort_wdh" layoutX="354.0" layoutY="279.0" prefHeight="25.0" prefWidth="197.0" promptText="Passwort wiederholen" />
+      <Label fx:id="fehlermeldung" layoutX="93.0" layoutY="309.0" text="Passwort != Wiederholung" textFill="RED" visible="false">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <Label fx:id="fehlermeldungUserID" layoutX="93.0" layoutY="200.0" text="Diese UserID ist bereits vorhanden!" textFill="RED" visible="false">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

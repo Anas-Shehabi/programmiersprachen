@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="aufgabe1.LoginController">
+   <children>
+      <Label layoutX="139.0" layoutY="65.0" text="Benutzerverwaltung">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="103.0" layoutY="177.0" text="UserID">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="103.0" layoutY="229.0" prefHeight="35.0" prefWidth="105.0" text="Passwort">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label layoutX="96.0" layoutY="284.0" prefHeight="35.0" prefWidth="186.0" text="Neu-Anmeldung">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <CheckBox fx:id="check_NeuAnmeldung" layoutX="364.0" layoutY="293.0" mnemonicParsing="false" onAction="#Check_NeuAnmeldung" />
+      <TextField fx:id="UserID" layoutX="364.0" layoutY="182.0" prefHeight="25.0" prefWidth="197.0" promptText="UserID" />
+      <PasswordField fx:id="Passwort" layoutX="364.0" layoutY="234.0" prefHeight="25.0" prefWidth="197.0" promptText="Passwort" />
+      <Button fx:id="btn_Ausfuehren" layoutX="96.0" layoutY="352.0" mnemonicParsing="false" onAction="#Button_Ausfuehren" prefHeight="25.0" prefWidth="159.0" text="Ausführen" />
+      <Label fx:id="fehlermeldungLogin" layoutX="103.0" layoutY="156.0" text="Anmeldung fehlgeschlagen!" textFill="RED" visible="false">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

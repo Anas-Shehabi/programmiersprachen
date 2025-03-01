@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="160.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="aufgabe1.AnwendungsController">
+   <children>
+      <Button fx:id="btn_Abbrechen" layoutX="205.0" layoutY="94.0" mnemonicParsing="false" onAction="#Button_Abbrechen" prefHeight="25.0" prefWidth="191.0" text="Abrechen" />
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="54.0" layoutY="37.0" prefHeight="17.0" prefWidth="493.0" text="Sie können das System jetzt verwenden">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
